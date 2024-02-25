@@ -19,10 +19,13 @@ https://github.com/electrifier/electrifier.v1.24
 - File Management
 - Built-in Viewers and Editors
 
-# Additional Resources
+# Miscellenaous Repositories
 - https://github.com/tajbender/Amiga-Lorraine-Mousepointer
 - https://github.com/tajbender/CoolIcons
 - https://github.com/tajbender/Vanara
+
+# Additional Ressources
+- https://learn.microsoft.com/en-us/windows/apps/design/style/segoe-fluent-icons-font#icon-list
 
 # Orphaned Repositories
 ## The Original .net-version just brought tab-support to Windows File Explorer
