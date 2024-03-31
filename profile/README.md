@@ -2,23 +2,26 @@
 
 ## Intro
 
-A project i've been working on in my spare time for some years now.
+I'm proud to relase _*electrifier*_ to the audience, to you: A project i've been working on in my spare time for some years now.
 
 Several parts have been re-written many times, to adopt latest technologies.
 
 ## Planned Features include
-- History of your working
-- Workspace ie Project Management via Workbenches
-- File Management
-- Built-in Viewers and Editors
+ - Workspace ie Project Management via Workbenches
+ - Built-in Viewers and Editors
+ - File Management
+ - History of your working
 
-# Yes, this is the current development tree: 
+# Currently Project
+https://github.com/orgs/electrifier/projects/3
 
-## electrifier v1.24 using WinAppSDK 1.5 preview
+# Current Repository
+
+## electrifier v1.24 using WinAppSDK 1.5 preview (02-24 - 03-24)
 https://github.com/electrifier/electrifier.v1.24
 
-## Currently active Project
-https://github.com/orgs/electrifier/projects/3
+# Orphaned Repositories
+
 
 # Miscellenaous Repositories
 
@@ -36,7 +39,7 @@ https://github.com/orgs/electrifier/projects/3
 > This is an orphaned project tree that is not currently in active development: https://github.com/electrifier/winforms.electrifier.org
 
 # Tags
-File Manager, Windows, AppSDK, .net, Graph
+  AppSDK, File Manager, Graph, .net, Windows, Office 365
 
 # Appendix
 
