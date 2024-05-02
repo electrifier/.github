@@ -1,9 +1,6 @@
-# electrifier 
+# _electrifier_
 
 ## Intro
-
-Proud to relase _*electrifier*_ to the audience.
-
 A project i've been working on in my spare time for some years now, since several parts have been re-written to adopt latest technologies.
 
 ## Planned Features include
