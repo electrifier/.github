@@ -27,9 +27,9 @@ https://github.com/electrifier/electrifier.v1.24
 # Additional Ressources
 - https://learn.microsoft.com/en-us/windows/apps/design/style/segoe-fluent-icons-font#icon-list
 
-## The Original .net-version just brought tab-support to Windows File Explorer
+## Classic electrifier - .net-version using Winforms to bring tab-support to Windows File Explorer
 > [!NOTE]
-> Orphaned Repository. Currently *not* in active development: [winforms.electrifier.org](https://github.com/electrifier/winforms.electrifier.org)
+> Orphaned Repository. Currently *not* in active development: [Classic electrifier](https://github.com/electrifier/Classic-electrifier)
 
 # Tags
   AppSDK, File Manager, Graph, .net, Windows, Office 365
