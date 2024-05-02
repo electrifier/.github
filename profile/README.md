@@ -2,16 +2,16 @@
 
 ## Intro
 
-I'm proud to relase _*electrifier*_ to the audience, to you: A project i've been working on in my spare time for some years now.
-Several parts have been re-written many times, to adopt latest technologies.
+Proud to relase _*electrifier*_ to the audience.
+
+A project i've been working on in my spare time for some years now, since several parts have been re-written to adopt latest technologies.
 
 ## Planned Features include
  - Managment of Files and Folders, local and in your Cloud
  - Built-in Viewers and Editors
  - Workspace ie Project Management via Workbenches
  - Track Timeline of your Workbench
- - Extensions
- - i18n, Themes
+ - Extensions, i18n, Themes
 
 # Repositories
  - [electrifier v1.24 using WinAppSDK 1.5 preview (02-24 - 03-24)](https://github.com/electrifier/electrifier.v1.24)
