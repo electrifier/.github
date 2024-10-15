@@ -34,4 +34,11 @@ A project i've been working on in my spare time for some years now, since severa
 ## Additional Ressources
 - https://learn.microsoft.com/en-us/windows/apps/design/style/segoe-fluent-icons-font#icon-list
 
-# _May the 4th be with you._
+# Contributors:
+<a href="https://github.com/electrifier/electrifier/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=electrifier/electrifier" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
+
+ _May the 4th be with you._
