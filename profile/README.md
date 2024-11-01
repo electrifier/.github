@@ -22,7 +22,7 @@ A project I’ve been working on in my spare time for some years now, since seve
 - https://github.com/tajbender/CoolIcons
 - https://github.com/tajbender/Vanara
 
-## Classic electrifier - .net-version using WinForms to bring tab-support to Windows File Explorer
+## Classic electrifier using Windows Forms to add tab-support to Windows Explorer
 > [!NOTE]
 > Orphaned Repository. Currently *not* in active development: [Classic electrifier](https://github.com/electrifier/Classic-electrifier)
 
