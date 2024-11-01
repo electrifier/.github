@@ -29,16 +29,13 @@ A project I’ve been working on in my spare time for some years now, since seve
 # Tags
   App SDK, File, Folder, Graph, Manager, Microsoft 365, .net, Office, Windows, 
 
-# Appendix
-## Additional Resources
-- https://learn.microsoft.com/en-us/windows/apps/design/style/segoe-fluent-icons-font#icon-list
-
-# Contributors:
+# Contributors
 
 - <a href="https://github.com/electrifier/electrifier/graphs/contributors"><img src="https://contrib.rocks/image?repo=electrifier/electrifier"/></a>
 - <a href="https://github.com/dahall/"><img src="https://contrib.rocks/image?repo=dahall/Vanara"/></a>
-- _Brought the idea, that disposing things that didn't belong to you is a bad idea._
 
 Made with [contrib.rocks](https://contrib.rocks).
 
- _May the 4th be with you._
+Last Update: 📆 11-01-24 _Brought the idea, that disposing things that didn't belong to you is a bad idea._
+
+# _May the 4th be with you._
