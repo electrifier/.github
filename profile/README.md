@@ -1,5 +1,3 @@
-Brought the idea, that disposing things that didn't belong to you is a bad idea
-
 # _electrifier_
 
 ## Intro
@@ -36,9 +34,10 @@ A project I’ve been working on in my spare time for some years now, since seve
 - https://learn.microsoft.com/en-us/windows/apps/design/style/segoe-fluent-icons-font#icon-list
 
 # Contributors:
-<a href="https://github.com/electrifier/electrifier/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=electrifier/electrifier" />
-</a>
+
+- <a href="https://github.com/electrifier/electrifier/graphs/contributors"><img src="https://contrib.rocks/image?repo=electrifier/electrifier"/></a>
+- <a href="https://github.com/dahall/"><img src="https://contrib.rocks/image?repo=dahall/Vanara"/></a>
+- _Brought the idea, that disposing things that didn't belong to you is a bad idea._
 
 Made with [contrib.rocks](https://contrib.rocks).
 
