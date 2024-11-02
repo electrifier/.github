@@ -27,15 +27,19 @@ A project I’ve been working on in my spare time for some years now, since seve
 > Orphaned Repository. Currently *not* in active development: [Classic electrifier](https://github.com/electrifier/Classic-electrifier)
 
 # Tags
-  App SDK, File, Folder, Graph, Manager, Microsoft 365, .net, Office, Windows, 
+  App SDK, File, Folder, Graph, Manager, Microsoft 365, .net, Office, Windows
 
 # Contributors
 
 - <a href="https://github.com/electrifier/electrifier/graphs/contributors"><img src="https://contrib.rocks/image?repo=electrifier/electrifier"/></a>
 - <a href="https://github.com/dahall/"><img src="https://contrib.rocks/image?repo=dahall/Vanara"/></a>
-
 Made with [contrib.rocks](https://contrib.rocks).
 
-Last Update: 📆 11-01-24 _Brought the idea, that disposing things that didn't belong to you is a bad idea._
+---
+
+Last Update: 📆 01-11-24
+_Brought the idea, that disposing things that didn't belong to you is a bad idea._
+
+----
 
 # _May the 4th be with you._
