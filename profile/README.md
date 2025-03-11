@@ -35,6 +35,10 @@ A project I’ve been working on in my spare time for some years now, since seve
 - <a href="https://github.com/dahall/"><img src="https://contrib.rocks/image?repo=dahall/Vanara"/></a>
 Made with [contrib.rocks](https://contrib.rocks).
 
+## PRIVACY
+
+- todo.YourPrivacyUrlGoesHere.org
+
 ---
 
 Last Update: 📆 01-11-24
